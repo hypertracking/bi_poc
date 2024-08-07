@@ -1,7 +1,8 @@
 {
-  "name": "material-ui-cra-ts",
+  "name": "bi_poc",
   "version": "5.0.0",
   "private": true,
+  "homepage": "https://hypertracking.github.io/bi_poc",
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
